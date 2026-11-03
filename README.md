@@ -1,6 +1,6 @@
 # Do AI Assistants Follow Stated Shopper Intent?
 
-**Evidence from 1,800 brand recommendations by Claude, GPT and Gemini** · Jass Di Domenico · November 2026
+**Evidence from 1,800 brand recommendations by Claude, GPT and Gemini** · Jass Di Domenico ([jass.didomenico@gmail.com](mailto:jass.didomenico@gmail.com)) · November 2026
 
 📄 **[Read the 2-page paper (PDF)](docs/paper.pdf)** · [Plain-language memo (PDF)](docs/memo.pdf) · [Results summary](data/full/results/summary.md) · [All answers (CSV)](data/full/answers_with_brands.csv)
 

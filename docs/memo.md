@@ -1,7 +1,7 @@
 # Do AI assistants listen to what the shopper wants?
 
 **A two-page memo on brand recommendations from Claude, GPT and Gemini**
-Jass Di Domenico · November 2026
+Jass Di Domenico · jass.didomenico@gmail.com · November 2026
 
 ## Question
 
