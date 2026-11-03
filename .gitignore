@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+data/full-backup-*/
+data/pilot-run1-gemini-client-bug/
+.run.lock
+.DS_Store
+.claude-flow/
+docs/outreach_email.md
+data/full_run.log
+scripts/build_outreach_kit.py
+data/full/handcheck_30.xlsx
