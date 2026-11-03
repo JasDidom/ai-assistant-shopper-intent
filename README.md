@@ -128,7 +128,7 @@ Pilot data is kept in `data/pilot/` and never enters the results, because settin
 
 ```
 Di Domenico, J. (2026). Do AI assistants follow stated shopper intent? Evidence from 1,800 brand
-recommendations by Claude, GPT and Gemini. Working paper. https://github.com/imapony11-boop/ai-assistant-shopper-intent
+recommendations by Claude, GPT and Gemini. Working paper. https://github.com/JasDidom/ai-assistant-shopper-intent
 ```
 
 ## License
